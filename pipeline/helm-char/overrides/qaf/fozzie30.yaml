@@ -1,0 +1,6 @@
+---
+ingress:
+  host: dogfood-fozzie30
+
+restMeetingService:
+  serviceUrl: "https://rms-fozzie30.bb2qa.local/huffy20.Diligent.Boardbooks.4.0.0.RestMeetingService/RestMeetingService.svc/"
